@@ -1,0 +1,12 @@
+body{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#content a{
+	text-decoration:none;
+}
+#content a:hover{
+					background-color:#408080;
+					display:inline-block;
+}

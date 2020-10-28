@@ -1,0 +1,26 @@
+body{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height:100%;
+}	
+.login-box{
+		max-width:700px;
+		float:none;
+		margin:150px auto;
+}
+.login-left{
+		background-color:#FFFFFF;
+		padding:30px;
+}		
+a{
+	color:#400040;
+	text-decoration:none;
+}
+	
+#span{
+	margin-left:3vw;
+	color:red;
+	font-size:1.2em;
+}
+

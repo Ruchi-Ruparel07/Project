@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+/* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
+.w3-btn,.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+.
+.w3-tooltip,.w3-display-container{position:relative}.w3-tooltip .w3-text{display:none}.w3-tooltip:hover .w3-text{display:inline-block}
+.w3-content,.w3-auto{margin-left:auto;margin-right:auto}.w3-content{max-width:1540px}.w3-auto{max-width:1540px}
+.w3-display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+.w3-display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
+.w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
+
+
+
+
+
+
+
+
+
+

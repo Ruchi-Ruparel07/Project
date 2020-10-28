@@ -1,0 +1,12 @@
+#head{
+		top:50%;
+		position:absolute;
+		text-align:center;
+		right:10%;
+		left:10%;
+		bottom:5%;
+}
+body{
+	background-size:cover;
+	background-repeat: no-repeat;
+}			
